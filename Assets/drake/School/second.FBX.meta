@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: e4632040d9d7d05409b682b0e4c9a451
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Green wall
+    100002: Green wall001
+    100004: Green wall002
+    100006: Green wall003
+    100008: Green wall004
+    100010: Green wall005
+    100012: Green wall006
+    100014: Green wall007
+    100016: Green wall008
+    100018: Green wall009
+    100020: Green wall010
+    100022: Green wall011
+    100024: Green wall012
+    100026: Green wall013
+    100028: Green wall014
+    100030: Green wall015
+    100032: //RootNode
+    400000: Green wall
+    400002: Green wall001
+    400004: Green wall002
+    400006: Green wall003
+    400008: Green wall004
+    400010: Green wall005
+    400012: Green wall006
+    400014: Green wall007
+    400016: Green wall008
+    400018: Green wall009
+    400020: Green wall010
+    400022: Green wall011
+    400024: Green wall012
+    400026: Green wall013
+    400028: Green wall014
+    400030: Green wall015
+    400032: //RootNode
+    2100000: diffuse green
+    2100002: leaf1
+    2300000: Green wall
+    2300002: Green wall001
+    2300004: Green wall002
+    2300006: Green wall003
+    2300008: Green wall004
+    2300010: Green wall005
+    2300012: Green wall006
+    2300014: Green wall007
+    2300016: Green wall008
+    2300018: Green wall009
+    2300020: Green wall010
+    2300022: Green wall011
+    2300024: Green wall012
+    2300026: Green wall013
+    2300028: Green wall014
+    2300030: Green wall015
+    3300000: Green wall
+    3300002: Green wall001
+    3300004: Green wall002
+    3300006: Green wall003
+    3300008: Green wall004
+    3300010: Green wall005
+    3300012: Green wall006
+    3300014: Green wall007
+    3300016: Green wall008
+    3300018: Green wall009
+    3300020: Green wall010
+    3300022: Green wall011
+    3300024: Green wall012
+    3300026: Green wall013
+    3300028: Green wall014
+    3300030: Green wall015
+    4300000: Green wall012
+    4300002: Green wall014
+    4300004: Green wall015
+    4300006: Green wall011
+    4300008: Green wall013
+    4300010: Green wall010
+    4300012: Green wall005
+    4300014: Green wall001
+    4300016: Green wall004
+    4300018: Green wall002
+    4300020: Green wall006
+    4300022: Green wall007
+    4300024: Green wall008
+    4300026: Green wall009
+    4300028: Green wall003
+    4300030: Green wall
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
